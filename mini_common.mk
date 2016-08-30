@@ -42,6 +42,7 @@ PRODUCT_PACKAGES += \
     audio.primary.default \
     com.android.future.usb.accessory \
     hostapd \
+    wificond \
     librs_jni \
     libvideoeditor_core \
     libvideoeditor_jni \
