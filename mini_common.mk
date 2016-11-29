@@ -38,7 +38,6 @@ PRODUCT_PACKAGES += \
     TestingCamera \
     WAPPushManager \
     audio \
-    audio_policy.default \
     audio.primary.default \
     com.android.future.usb.accessory \
     hostapd \
